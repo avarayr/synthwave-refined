@@ -7,6 +7,10 @@
 
 This theme does not support the glow effects of the original <a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode">SynthWave '84</a>.
 
+# Try it live!
+
+You can preview the theme in your browser: https://vscode.dev/theme/avarayr.synthwave-refined
+
 # Motivation
 
 I love the original SynthWave theme, but I wanted to make the color less harsh on the eyes.
