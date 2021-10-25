@@ -10,7 +10,7 @@ This theme does not support the glow effects of the original <a href="https://ma
 # Motivation
 
 I love the original SynthWave theme, but I wanted to make the color less harsh on the eyes.
-That's why some bright red colors were swapped with white. I also
+That's why some bright red colors were swapped with white.
 
 # Credits
 

@@ -3,6 +3,7 @@
   "displayName": "SynthWave Refined",
   "description": "SynthWave '84 refined to perfection",
   "version": "0.0.1",
+  "publisher": "Avarayr",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.33.0"
