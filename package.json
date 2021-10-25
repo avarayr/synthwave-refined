@@ -1,0 +1,34 @@
+{
+  "name": "synthwave-refined",
+  "displayName": "SynthWave Refined",
+  "description": "SynthWave '84 refined to perfection",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "repository": {
+    "url": "https://github.com/avarayr/synthwave-refined",
+    "type": "git"
+  },
+  "keywords": [
+    "synthwave",
+    "refined",
+    "80s",
+    "retro",
+    "dracula",
+    "synthwave refined"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SynthWave Refined",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SynthWave Refined-color-theme.json"
+      }
+    ]
+  }
+}
