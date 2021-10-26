@@ -1172,7 +1172,7 @@
     {
       "scope": ["source.dart", "source.python", "source.scala"],
       "settings": {
-        "foreground": "#FF7EDB"
+        "foreground": "#F8F8F2"
       }
     },
     {
