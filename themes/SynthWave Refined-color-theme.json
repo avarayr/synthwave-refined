@@ -925,16 +925,11 @@
         "foreground": "#72F1B8"
       }
     },
+
     {
-      "scope": "storage.type.cs",
+      "scope": "variable.other.object.cs",
       "settings": {
-        "foreground": "#FE4450"
-      }
-    },
-    {
-      "scope": "entity.name.variable.local.cs",
-      "settings": {
-        "foreground": "#FF7EDB"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -943,7 +938,7 @@
         "entity.name.variable.property.cs"
       ],
       "settings": {
-        "foreground": "#FF7EDB"
+        "foreground": "#FFFFFF"
       }
     },
     {
